@@ -1,1 +1,1 @@
-# Counting-Valleys-algo
+# Counting-Valleys-algo This program counts how many valleys a hiker walks through by tracking the height level, and every time the hiker goes back up to sea level level == 0 after stepping up U, it adds one valley.
